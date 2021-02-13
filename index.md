@@ -31,5 +31,5 @@ All information, specifications and illustrations in this manual are correct at 
 
 **ℹ️ Tip:** References to right or left hand sides in this book are made when viewing the vehicle from the rear.
 
-Detailed and technical information is contained in the Workshop Manual which is available from your authorised
+Detailed and technical information is contained in the Workshop Manual which is available from your authorized
 Mini dealer.
