@@ -39,14 +39,14 @@ Seat belts are adjustable, and should fit snugly across your hips and chest.
 *A driver with a correctly fastened seatbelt.*
 
 1. Adjust the short belt until the attached buckle is located just in front of your hip.
-2. Adjust the long belt so that the buckle tongue is approximately at the belt centre.
+2. Adjust the long belt so that the buckle tongue is approximately at the belt center.
 3. Push the buckle tongue on the long belt into the buckle on the short belt.  
 The buckle makes an audible click when is fastened.
 4. Adjust the long belt until the waist portion is comfortably tight and it is just possible to slide a hand between the upper part of the belt and your chest.
 
 ## Releasing the seat belts
 
-It is important you are familiar with how to undo your seat belt because you may need to relesae your own or your passenger's quickly if you experience an accident in your vehicle.
+It is important you are familiar with how to undo your seat belt because you may need to release your own or your passenger's quickly if you experience an accident in your vehicle.
 
 1. Lift the flap on the buckle to approximately 90 degrees.
 2. While holding the buckle flap, exert gentle forward pressure on the belt.  
@@ -85,9 +85,9 @@ Fold the lid down and use it in the open position for additional luggage carryin
 Open the bonnet when you need to access the engine. It has two separate mechanisms to ensure it is securely fastened, so it is important you are familiar with how to open it.
 
 **ℹ️ Tip:** References to right or left hand sides in this book are made when viewing the vehicle from the rear.
-**📝 Note:** When the bonnet is open, ensure the release lever and safey catch are well lubricated.
+**📝 Note:** When the bonnet is open, ensure the release lever and safety catch are well lubricated.
 
-1. Insert a finger in the centre top louvre of the radiator shell.
+1. Insert a finger in the center top louvre of the radiator shell.
 2. Move the release lever toward the right-hand side of the vehicle.  
 Push down on the bonnet with your other hand to assist movement of the lever.  
 The bonnet is released but is still held by the safety catch.
@@ -102,9 +102,9 @@ The bonnet lock keeps the bonnet securely closed while driving.
 
 The bonnet lock has a two part mechanism: a release lever and safety catch.
 
-The release lever is located in the centre of the bonnet and the safety catch is beneath the bonnet on the left hand side.
+The release lever is located in the center of the bonnet and the safety catch is beneath the bonnet on the left hand side.
 
-**📝 Note:** Keep the bonnet release lever and safey catch well lubricated.
+**📝 Note:** Keep the bonnet release lever and safety catch well lubricated.
 
 ![Bonnet lock](/assets/images/BonnetLock.png)  
 *The bonnet release lever and safety catch*
@@ -119,7 +119,7 @@ Always ensure the bonnet is securely fastened to prevent it opening whilst the v
 2. Stow the prop in the clip.
 3. Lower the bonnet to engage the safety catch.
 4. Apply hand pressure to press the bonnet fully into the closed position.  
-You will hear the saftey catch and bonnet lock engage.
+You will hear the safety catch and bonnet lock engage.
 
 **❗️ Warning:** Always drive with the bonnet closed.
 
