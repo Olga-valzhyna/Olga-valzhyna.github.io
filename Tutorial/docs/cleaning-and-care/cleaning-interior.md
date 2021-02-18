@@ -7,7 +7,7 @@ nav_order: 2
 
 # Cleaning the interior
 
-Brush or vaccuum the interior upholstery of the car.
+Brush or vacuum the interior upholstery of the car.
 
 Clean the interior before washing the outside of the vehicle.
 
