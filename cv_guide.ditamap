@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>CV guide</title>
+    <topicref href="TOPICS/c_curriculum_vitae.dita"/>
+    <topicref href="TOPICS/t_brainstorming_for_Your_CV.dita"/>
+    <topicref href="TOPICS/t_writing_a_standout_cv_headline.dita"/>
+    <topicref href="TOPICS/t_choosing_a_resume_format.dita"/>
+    <topicref href="TOPICS/t_adding_your_name_and_contact_information.dita"/>
+    <topicref href="TOPICS/t_adding_your_summary_statement.dita"/>
+    <topicref href="TOPICS/t_detailing_your_work_experience.dita"/>
+    <topicref href="TOPICS/t_listing_relevant_skills.dita"/>
+    <topicref href="TOPICS/t_adding_your_education.dita"/>
+    <topicref href="TOPICS/t_including_your_hobbies_and_interests.dita"/>
+    <topicref href="TOPICS/r_useful_tips.dita"/>
+    <topicref href="TOPICS/r_checklist.dita"/>
+    <topicref href="TOPICS/CV_glossary.dita"/>
+</map>
