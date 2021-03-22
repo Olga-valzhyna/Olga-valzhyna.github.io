@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_choosing_a_resume_format">
+    <title>Brainstorming for Your CV</title>
+    <shortdesc>A company you want to apply to has asked you to send in a CV and you're thinking,
+        "wait..what?" Don't worry! A CV is a concise document which summarizes your past, existing
+        professional skills, proficiency and experiences. The purpose of this document is to
+        demonstrate that you have the necessary skills to do the job for which you are applying.
+        Literally you are selling your talents, skills, and proficiencies.</shortdesc>
+    <taskbody>
+        <steps id="steps_dwr_jyf_jt">
+            <step>
+                <cmd><b>Know what information a CV generally contains.</b>
+                </cmd>
+                <info>
+                    <p> Most CVs include your personal information, your education and
+                        qualifications, your work experience, your interests and achievements, your
+                        skills, and references. Also experienced people tailor your resume to the
+                        job you are applying for. Use a modern but professional format. However,
+                        there is no set format for a CV, what you include is up to you.</p>
+                </info>
+            </step>
+            <step>
+                <cmd><b>Brainstorm your hobbies and interests.</b>
+                </cmd>
+                <info>
+                    <p>Unique interests or hobbies will make you stand out. Be aware of the
+                        conclusions that might be drawn from your hobbies. Try to list hobbies that
+                        portray you as a team-oriented individual rather than as a solitary, passive
+                        person. Companies want someone who works well with others and can take
+                        charge if need be.</p>
+                </info>
+                <stepxmp>
+                    <ul id="ul_y3x_yvn_1pb">
+                        <li><i>Hobbies and interests that paint a positive image:</i> Being the
+                            captain of your soccer (or football) team, organizing a charity event
+                            for an orphanage, secretary of your school’s student-run
+                            government.</li>
+                        <li><i>Hobbies that imply a passive, solitary personality</i>: watching TV,
+                            doing puzzles, reading. If you are going to put any of these things,
+                            give a reason why. For instance, if you are applying for a job at a
+                            publishing house, put something like: I enjoy reading the great American
+                            writers such as Twain and Hemingway because I think their writing gives
+                            a unique perspective into American culture at the time they were
+                            writing.</li>
+                    </ul>
+                </stepxmp>
+            </step>
+            <step>
+                <cmd><b>Consider the job you are applying for.</b></cmd>
+                <info>
+                    <p>Research the company. A good CV is tailored to the specific job and company
+                        you are applying for. What does the company do? What is their mission
+                        statement? What do you think they are looking for in an employee? What
+                        skills does the specific job you are applying for require? These are all
+                        things to keep in mind when writing your CV.</p>
+                </info>
+            </step>
+            <step>
+                <cmd><b>Check the company’s website for extra information about the CV.</b>
+                </cmd>
+                <info>
+                    <p>See if there is any specific information they want you to list in your CV.
+                        There might be specific directions listed on the application page. Always
+                        double check this.</p>
+                </info>
+            </step>
+            <step>
+                <cmd><b>Make a list of jobs you have held.</b></cmd>
+                <info>
+                    <p>These can be both jobs you hold currently and jobs you have held in the past.
+                        Include the dates that you began and ended your term at each particular
+                        job.</p>
+                </info>
+            </step>
+            <step>
+                <cmd><b>Make a list of your relevant skills.</b></cmd>
+                <info>
+                    <p>These skills often include computing skills (are you a wiz at Wordpress?
+                        Excel? inDesign? etc.), languages you speak, or specific things the company
+                        is looking for, such as targeted skills.</p>
+                    <p>
+                        <ul id="ul_ew1_2tn_1pb">
+                            <li><i>Example of targeted skills</i>: If you are applying to be a
+                                writer for a newspaper, list that you are fluent in AP style. If you
+                                are applying for a coding job, mention that you have worked with
+                                JavaScript.</li>
+                        </ul>
+                    </p>
+                </info>
+            </step>
+        </steps>
+        <result id="result_lr2_trn_1pb">
+            <p>Taking time to brainstorm can help you to delve deeper into your career history and
+                highlight accomplishments that make you stand out as an applicant. <image
+                    href="../IMAGES/Brainstorming.jpg" width="400" id="image_hn4_ztn_1pb"/></p>
+        </result>
+        <postreq id="postreq_nr2_trn_1pb">When you have collected all of the materials successfully,
+            you can start creating your CV.</postreq>
+    </taskbody>
+</task>

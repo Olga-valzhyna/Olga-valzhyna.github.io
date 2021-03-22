@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="curriculum_vitae">
+    <title>Curriculum vitae</title>
+    <shortdesc>The average person changes jobs 12 times throughout the course of their lifetime.
+        That means they create at least 12 different versions of their CV during that
+        time.</shortdesc>
+    <conbody>
+        <section id="section_wxg_pvk_1pb"><title><b>The purpose of you CV is to win job
+                    interviews.</b></title><p>In 1482, Leonardo da Vinci invented the CV. He listed
+                all his abilities and send it to the Duke of Milan.</p><p>The best thing?</p><p>His
+                approach was spot-on. He could have highlighted all his impressive projects from the
+                past.</p><p>But he didn’t.</p><p>He could have provided a list of all the artillery
+                he already made.</p><p>But he didn’t.</p><p>No, Da Vinci realized that those were
+                all HIS achievements and not the Duke’s NEEDS.</p><p><b>He placed himself in the
+                    Duke’s position and figured out what he could offer to improve HIS
+                    situation.</b></p><p>And it worked.</p><draft-comment>Add:<p>"Leonardo’s
+                    approach was spot-on. He made sure to communicate how the EMPLOYER could benefit
+                    from his work…"</p></draft-comment><image href="../IMAGES/What-is-a-CV.png"
+                width="400" id="image_at2_vxk_1pb"/></section>
+        <section id="section_zxg_pvk_1pb">
+            <title>Your CV is NOT a biography anymore!</title>
+        </section>
+        <section id="section_pxw_zyk_1pb">
+            <p>The purpose of your CV is NOT to get the job… It is to arrange an interview!</p>
+            <p>The main objective of your CV is to communicate to the recruiter that this particular
+                job is the logical result of your career path.</p>
+            <p><b>Your CV has to evoke the desire to meet you!</b></p>
+            <p>In other words...</p>
+            <p><b>Your CV is NOT the place to demonstrate what YOU are looking for.</b></p>
+            <p>It is to show why you are the perfect candidate.</p>
+            <p>There is plenty of time to talk about yourself in the job interview.</p>
+        </section>
+        <section id="section_lmv_tyk_1pb">
+            <title>Every CV is to be written in a defined format.</title>
+        </section>
+        <section id="section_pqy_2cl_1pb">
+            <p>To make the CV more appealing and informative, you must know the format and different
+                sections that are included.</p>
+        </section>
+        <section id="section_kpy_2cl_1pb">
+            <dl id="dl_yt3_gwk_1pb">
+                <dlentry>
+                    <dt>HEADER</dt>
+                    <dd>
+                        <p><i>This is the top most section of your CV. The employer is often looking
+                                for your identity and the ways to contact you here. Always use a
+                                bolder font for your name so that it stands out, and makes it easier
+                                to be remembered.</i></p>
+                    </dd>
+                </dlentry>
+                <dlentry>
+                    <dt>OBJECTIVE</dt>
+                    <dd>
+                        <p><i>In this section, you need to write the objective that you are seeking
+                                to achieve. Always match this objective with the the company’s
+                                objective.</i></p>
+                    </dd>
+                </dlentry>
+                <dlentry>
+                    <dt>EDUCATION</dt>
+                    <dd>
+                        <p><i>In this section, the employer is looking for the education that you
+                                have relieved. Just keep it as simple as possible.</i></p>
+                    </dd>
+                </dlentry>
+                <dlentry>
+                    <dt>EXPERIENCE</dt>
+                    <dd>
+                        <p><i>Here comes the tricky part. For most freshers, this section is often
+                                left blank, and this is the biggest issue that the recruiter faces.
+                                Develop a sense of trust in your employer by letting him know, that
+                                this isn’t your first real world job experience (even if it is) with
+                                the help of mentioning your college projects, live assignments or
+                                any other achievement.</i></p>
+                    </dd>
+                </dlentry>
+                <dlentry>
+                    <dt>SKILLS</dt>
+                    <dd>
+                        <p><i>Another extremely important section. For this, step into the
+                                employer’s boots for a while. Think what are the skills that he
+                                would be looking for. Match those skills with the ones mentioned in
+                                the job description.</i></p>
+                    </dd>
+                </dlentry>
+            </dl>
+            <simpletable id="simpletable_l5b_wwk_1pb">
+                <sthead>
+                    <stentry>
+                        <p>Good CV format</p>
+                    </stentry>
+                    <stentry>
+                        <p>Bad CV format</p>
+                    </stentry>
+                </sthead>
+                <strow>
+                    <stentry>
+                        <p>Clearly defined sections. </p>
+                        <p>Bold headings.</p>
+                    </stentry>
+                    <stentry>
+                        <p>Unclear layout.</p>
+                        <p>Difficult to navigate.</p>
+                    </stentry>
+                </strow>
+                <strow>
+                    <stentry>
+                        <p>Simple font and colour scheme.</p>
+                    </stentry>
+                    <stentry>
+                        <p>Elaborate font and loud colours.</p>
+                    </stentry>
+                </strow>
+                <strow>
+                    <stentry>
+                        <p>Text broken up and plenty of bullet points.</p>
+                        <p>No images or distracting design features.</p>
+                    </stentry>
+                    <stentry>
+                        <p>Large unbroken paragraphs of text.</p>
+                        <p>Large photograph wasting space.</p>
+                    </stentry>
+                </strow>
+            </simpletable>
+            <p>Don't forget about your CV profile (sometimes called a personal statement).</p>
+            <p>It is a short introductory paragraph at the top of your CV, and is the first thing
+                that a recruiter will see upon opening your CV.</p>
+            <p>So, it needs to excite people and encourage them to continue reading the rest of your
+                CV.</p>
+        </section>
+    </conbody>
+</concept>

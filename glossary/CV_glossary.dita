@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossgroup PUBLIC "-//OASIS//DTD DITA Glossary Group//EN" "glossgroup.dtd">
+<glossgroup id="duck_equipment">
+    <title>CV glossary</title>
+    <glossentry id="binoculars">
+        <glossterm>Chronological CV</glossterm>
+        <glossdef>
+            <p>It’s the CV that organizes information chronologically,starting with the oldest
+                achievements and ending with the most recent ones.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="duck_bait">
+        <glossterm>Combination or mixed CV</glossterm>
+        <glossdef>
+            <p>It’s the kind of CV that combines parts of the chronological CV and the functional
+                one. It always starts with the functional format, organizing information by areas or
+                topics, to continue with organization according to time-dates.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="duck_call">
+        <glossterm>Cover letter or application letter</glossterm>
+        <glossdef>It’s a document that usually goes with the CV where, in a much more personal way,
+            the candidate’s skills are explained for a particular job position.</glossdef>
+    </glossentry>
+    <glossentry id="spotting_scope">
+        <glossterm>Curriculum Vitae</glossterm>
+        <glossdef>
+            <p>It’s a document that summarizes the working experience, education and skills of a
+                candidate for a job search.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_x2h_nlr_1pb">
+        <glossterm>Functional CV</glossterm>
+        <glossdef>
+            <p>It’s the CV that organizes information by topics or areas instead of doing it
+                chronologically. A quick glimpse of the most important information.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_gjn_nlr_1pb">
+        <glossterm>Human resources</glossterm>
+        <glossdef>
+            <p>A term used in reference to the organisation and management of people within an
+                organisation.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_ugs_nlr_1pb">
+        <glossterm>Letter of recommendation</glossterm>
+        <glossdef>
+            <p>Document where a person, most of the time a former boss, names the candidate’s skills
+                and mentions he or she is ideal for the job offer. It doesn’t usually go with the
+                CV.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_cyw_nlr_1pb">
+        <glossterm>Resume</glossterm>
+        <glossdef>
+            <p>Usually its meaning is the same as the CV (resume in the US, CV in the UK) but with
+                some differences.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_gw1_4lr_1pb">
+        <glossterm>Video resume – Video CV</glossterm>
+        <glossdef>
+            <p>It’s a type of CV that’s on the increase, particularly in English-speaking countries.
+                It consists in a video recording where the candidate explains his or her skills for
+                a job position in particular.</p>
+        </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_kxh_4lr_1pb">
+        <glossterm>Web CV</glossterm>
+        <glossdef>
+            <p> It’s a personal website, designed as a CV, including the candidate’s skills and
+                achievements. Being on the internet, any company or employer in the world can have
+                access to it.</p>
+        </glossdef>
+    </glossentry>
+</glossgroup>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_including_your_hobbies_and_interests">
+    <title>Including Your hobbies and interests</title>
+    <shortdesc>Your hobbies and interest are an entirely optional section and should only be added
+        if they are somehow relevant to the jobs or companies you are applying to.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Generally speaking, they work best for candidates with no experience, to help
+                demonstrate skills outside of the workplace.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Which hobbies to add to your CV</cmd>
+                <info>
+                    <ul id="ul_l1q_qfs_1pb">
+                        <li><b>Volunteering </b>– Any volunteer work is normally a great addition to
+                            your CV, especially if t’s for a good cause, or it directly relates to
+                            your target roles. Either way there should be plenty of work-related
+                            skills you can highlight from volunteer work.</li>
+                        <li><b>Writing </b>– Writing is a great communicative skill that is required
+                            in plenty of jobs, so if you have any personal writing hobbies (such as
+                            a blog or writing classes) then it can be worth mentioning them.</li>
+                        <li><b>Sports </b>– Involvement in a fairly serious sports team or
+                            individual sport involves dedication, teamwork, and shows you have the
+                            ability to commit yourself to a cause.</li>
+                        <li><b>Strategy games </b>– If you play in a chess league or similar
+                            equivalent, this can be a good way of showing recruiters that you are
+                            bright and tactful.</li>
+                        <li><b>Charity and events </b>– If you have any involvement in the
+                            organising and planning of events in your spare time, it should
+                            definitely get a mention in your CV. Maybe you help to run an
+                            after-school club, or support the promoting of a local music event –
+                            lots of workplace skills can be drawn out of event planning
+                            hobbies.</li>
+                        <li><b>Travel </b>– Some employers really love to see travel on a CV,
+                            especially the more modern trendy employers like Google and Facebook.
+                            Travel involve lots of planning, bravado, and teaches you a lot about
+                            different cultures and lifestyles.</li>
+                        <li><b>Practical work </b>– This one applies mainly to candidates applying
+                            to engineering or trade roles, but if you have any hobbies that involve
+                            building or fixing things, it can be a great way to prove your ingenuity
+                            and technical know-how.</li>
+                    </ul>
+                </info>
+            </step>
+            <step>
+                <cmd>Which hobbies to keep out of your CV</cmd>
+                <info>
+                    <ul id="ul_w2v_hgs_1pb">
+                        <li><b>Common pastimes</b> – Common pastimes are essentially hobbies that
+                            99% of the population take part in. Things like eating out, going to the
+                            cinema, reading or socialising. These hobbies will not set you apart
+                            from other candidates, so there’s no need to waste space on your CV by
+                            writing about them.</li>
+                        <li><b>Sensitive subjects</b> – If you have hobbies that involve any
+                            subjects that could be considered sensitive (topics such as politics or
+                            religion) then I would advise leaving them out to be safe and ensure you
+                            don’t encounter any discrimination.</li>
+                        <li><b>Passive hobbies</b> – Hobbies such as supporting a football team or
+                            watching television don’t require much input from you personally, so
+                            they will not impress employers.</li>
+                    </ul>
+                </info>
+            </step>
+        </steps>
+        <postreq id="postreq_wms_lgs_1pb">
+            <p>Interests are optional and in many cases, they won’t make a huge difference – but if
+                you feel that they could make you appear more suitable and benefit your application,
+                then you should include them.</p>
+        </postreq>
+    </taskbody>
+</task>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_choosing_a_resume_format">
+    <title>Choosing a resume format</title>
+    <shortdesc>Your CV format will play a big part in it’s success. </shortdesc>
+    <taskbody>
+        <context>
+            <p> If the information in your CV is well-arranged and presented in a simple and
+                professional style – it will be easy for recruiters to navigate it and digest the
+                content. If the information is poorly laid-out, cramped or messy, then readers will
+                struggle to read it, and probably skip past it.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Create a text document</cmd>
+                <info>
+                    <p>Use writing software like Microsoft Word or Google Docs to create a Word
+                        document or PDF (you could also use an online CV builder).</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Use a clear simple font</cmd>
+                <info>
+                    <p>This makes it easy for all recruiters and hiring managers to read it.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Divide sections clearly</cmd>
+                <info>
+                    <p>With bold headings and space to make it easy for recruiters to jump to the
+                        sections they need.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Use a calm colour scheme</cmd>
+                <info>
+                    <p>Loud colours can be off-putting and look unprofessional, so keep it
+                        muted.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Avoid photos and images</cmd>
+                <info>
+                    <p>They take up valuable space and do not add any value to the CV (unless you
+                        are a model or actor)</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Use plenty of bullet points</cmd>
+                <info>
+                    <p>To break up information and provide a pleasant reading experience.</p>
+                </info>
+            </step>
+        </steps>
+        <postreq id="postreq_ot4_qtr_1pb">This is an overview of what to include in your CV<image
+                href="../IMAGES/CV-structure-diagram.png" width="400" id="image_ffs_d5r_1pb"/><ul
+                id="ul_ujc_5tr_1pb">
+                <li>Name and contact details </li>
+                <li>Profile / Personal statement</li>
+                <li>Core skills section </li>
+                <li>Work experience</li>
+                <li>Education and qualifications</li>
+                <li>Hobbies and interests (maybe)</li>
+            </ul></postreq>
+    </taskbody>
+</task>

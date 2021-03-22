@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_adding_your_name_and_contact_information">
+    <title>Adding Your name and contact information</title>
+    <shortdesc>It might seem obvious, but job seekers sometimes forget a key piece of contact
+        information in this section. Double check and make it as easy as possible for recruiters to
+        contact you for a job interview.</shortdesc>
+    <taskbody>
+        <context>
+            <p>The top of your resume should include:<image href="../IMAGES/name.png"
+                    id="image_upt_dwr_1pb"/><ol id="ol_uxq_mvr_1pb">
+                    <li>Name</li>
+                    <li>Phone number</li>
+                    <li>Location</li>
+                    <li>Email Address</li>
+                    <li>LinkedIn profile URL</li>
+                </ol></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Include a personal phone number, never a work number.</cmd>
+            </step>
+            <step>
+                <cmd>You don’t need to include your full address but do add your city, state, and
+                    zip code. Recruiters often search for local candidates first.</cmd>
+            </step>
+            <step>
+                <cmd>Use a professional sounding email address. Consider creating a free Gmail
+                    account for your job search if you currently use a more outdated email
+                    service.</cmd>
+            </step>
+            <step>
+                <cmd>Create a strong LinkedIn profile and be sure to include the URL on your
+                    resume.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

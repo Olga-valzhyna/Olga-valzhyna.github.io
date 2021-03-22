@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_checklist">
+    <title>Checklist</title>
+    <shortdesc>Even if you’re someone who’s confident in putting together a job application, it’s
+        still incredibly easy to miss something. To make sure this doesn’t happen use a quick CV
+        checklist to help you to make sure you’ve not missed anything. </shortdesc>
+    <refbody>
+        <example>
+            <p> If you can tick off all of these points then you’re good to go!</p>
+            <ol id="ol_ezh_mdl_1pb">
+                <li>Review all your contact information, and make sure they are up to date.</li>
+                <li>The employer has been addressed and the employer details mentioned are
+                    correct.</li>
+                <li>The resume looks good and is well formatted.</li>
+                <li>There are no typo and grammatical mistakes in the CV.</li>
+                <li>The keywords have been highlighted.</li>
+                <li>There is no irrelevant information included in the resume.</li>
+                <li>The CV doesn’t exceed two pages.</li>
+                <li>There should be no expected salary.</li>
+            </ol>
+        </example>
+        <table id="table_d5s_lgl_1pb">
+            <title>Resume format</title>
+            <tgroup cols="3">
+                <colspec colname="c1" colnum="1"/>
+                <colspec colname="c2" colnum="2"/>
+                <colspec colname="c3" colnum="3"/>
+                <thead>
+                    <row>
+                        <entry>Chronological. Best if:</entry>
+                        <entry>Functional. Best if:</entry>
+                        <entry>Hybrid. Best if:</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>You're applying for a job in your current field or industry.</entry>
+                        <entry>You want to change careers</entry>
+                        <entry>You're a mid-career professional or higher.</entry>
+                    </row>
+                    <row>
+                        <entry>Your work experience and skill set are intimately linked.</entry>
+                        <entry>You have large work gaps that you want to cover up.</entry>
+                        <entry>You're an expert in your field.</entry>
+                    </row>
+                    <row>
+                        <entry>You're an entry-level candidate or a student with some work
+                            experience.</entry>
+                        <entry>You're applying for a job where the skill requirements are emphasized
+                            more than work experience.</entry>
+                        <entry>You're applying for a job that requires a lot of technical skills and
+                            expertize.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

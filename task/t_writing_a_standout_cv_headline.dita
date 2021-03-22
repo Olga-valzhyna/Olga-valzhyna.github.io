@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_writing_a_standout_cv_headline">
+    <title>Writing a standout CV headline</title>
+    <shortdesc>A resume headline is a concise, one-line description of who you are as a candidate. A
+        well-written headline can grab a recruiter’s attention and encourage them to take a more
+        detailed look at your qualifications.</shortdesc>
+    <taskbody>
+        <context id="context_ygp_h14_1pb">
+            <p>Your headline is a short but powerful addition to your resume, often the first thing
+                a recruiter reads. Take advantage of the opportunity to make a strong first
+                impression.</p>
+        </context>
+        <steps id="steps_zgp_h14_1pb">
+            <step>
+                <cmd>Include keywords from the job posting, ideally the job title.</cmd>
+            </step>
+            <step>
+                <cmd>Keep it short. Try to write under ten words.</cmd>
+            </step>
+            <step>
+                <cmd>Use title case (capitalize the first letter of each word) and adjust your font
+                    so the headline stands out visually.<image
+                        href="../IMAGES/Resume-Headline-example-1.png" id="image_hrf_syn_1pb"
+                    /></cmd>
+            </step>
+            <step>
+                <cmd><b>Tips for Writing a Resume Headline: 5 Questions to Ask </b></cmd>
+                <steptroubleshooting>
+                    <ol id="ol_jjv_y14_1pb">
+                        <li><i>Is your headline compatible with the position? </i></li>
+                        <li><i>Does your headline include keywords from the job posting? </i></li>
+                        <li><i>Does your resume headline include concrete language and information?
+                            </i></li>
+                        <li><i>Is your headline concise?</i></li>
+                        <li><i>Does your resume headline stand out visually? </i></li>
+                    </ol>
+                </steptroubleshooting>
+            </step>
+        </steps>
+        <example id="example_pc4_tzn_1pb">
+            <ul id="ul_bbq_xzn_1pb">
+                <li>Seasoned Registered Nurse Specializing in Pediatric Care </li>
+                <li>Award-Winning Graphic Designer </li>
+                <li>Editorial Producer who has Co-Produced 3 Award-Winning Films</li>
+                <li>Experienced Merchandiser with CDL License</li>
+                <li>Executive Assistant with 6 Years Admin Experience </li>
+                <li>Senior Creative Copywriter with Experience Writing Social Ads</li>
+                <li>Seasoned Content Writer with SEO Knowledge</li>
+            </ul>
+        </example>
+        <postreq id="postreq_esc_nb4_1pb"><b>Mistakes to Avoid when Writing Your Resume
+                Headline</b><ol id="ol_gj1_4b4_1pb">
+                <li>Don’t include an objective in your headline.</li>
+                <li>Don’t lie.</li>
+                <li>Don’t forget to tailor your headline.</li>
+            </ol></postreq>
+    </taskbody>
+</task>

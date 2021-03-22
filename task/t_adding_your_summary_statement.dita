@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_adding_your_summary_statement">
+    <title>Adding Your summary statement</title>
+    <shortdesc>A resume summary statement is a short paragraph or section of bullet points at the
+        beginning of a resume that highlights your professional skills and experience. </shortdesc>
+    <taskbody>
+        <context><p>Your summary should expand on your headline and communicate to recruiters and
+                hiring managers why you are a good fit for the job.</p><p>Summary statements are not
+                ideal for all job seekers. If you don’t have much job experience or are changing
+                careers, you might use the space to expand on your work history section, skills
+                section, or write a strong resume objective statement instead.</p><image
+                href="../IMAGES/statement.png" id="image_r3l_twr_1pb"/><note id="note_pjb_qwr_1pb">
+                <p><i>Career experts rarely recommend including a resume objective statement, but
+                        these summary alternatives can work in special circumstances such as in the
+                        case of career changes.</i></p>
+            </note></context>
+        <steps>
+            <step>
+                <cmd>Look for patterns in your work history and include a concise overview.</cmd>
+            </step>
+            <step>
+                <cmd>Include your most important and relevant skills.</cmd>
+            </step>
+            <step>
+                <cmd>Mention your most impressive achievements.</cmd>
+            </step>
+            <step>
+                <cmd>Incorporate keywords from the job description.</cmd>
+            </step>
+        </steps>
+        <result id="result_ltv_zwr_1pb">
+            <p>The goal of a summary statement is to demonstrate the job seeker’s unique value
+                through their skills and accomplishments.</p>
+        </result>
+    </taskbody>
+</task>

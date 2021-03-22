@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_detailing_your_work_experience">
+    <title>Detailing Your work experience</title>
+    <shortdesc>The work experience section is the heart of your resume. Employers look at this
+        section closely to determine whether your job history and prior accomplishments make you a
+        promising candidate.</shortdesc>
+    <taskbody>
+        <context>
+            <p>That’s why it’s important to detail not only your job responsibilities but also your
+                competence in prior roles. The work experience section is your chance to show
+                recruiters and hiring managers how you have added unique value to other
+                companies.</p>
+            <p>The first things a recruiter looks for on your resume are the job titles you’ve held
+                and the caliber of companies you’ve worked with. Make this information easy to find
+                by sticking to a familiar format.</p>
+            <p>List each job in reverse-chronological order. Each job should have its own subheading
+                that includes the following information:</p>
+            <ul id="ul_tmm_qxr_1pb">
+                <li>Company</li>
+                <li>Job location</li>
+                <li>Your job title</li>
+                <li>Start and end dates</li>
+            </ul>
+            <table id="table_qj2_dyr_1pb">
+                <title><b>Resume work experience dos and don’ts</b></title>
+                <tgroup cols="2">
+                    <colspec colname="c1" colnum="1"/>
+                    <colspec colname="c2" colnum="2"/>
+                    <thead>
+                        <row>
+                            <entry>DO</entry>
+                            <entry>DON'TS</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>List your work experience in reverse-chronological order (most
+                                recent first)</entry>
+                            <entry>Get hung up on every last job duty; put more emphasis on your
+                                most transferrable work experience and skills</entry>
+                        </row>
+                        <row>
+                            <entry>Use consistent heading formatting</entry>
+                            <entry>Outright lie in your resume work experience; tailor your actual
+                                experience without making things up</entry>
+                        </row>
+                        <row>
+                            <entry>Focus on what will get you this job rather than everything you’ve
+                                ever done</entry>
+                            <entry>Use long sentences or big block paragraphs if you can help it;
+                                think short sentences, strong verbs, and bullet points</entry>
+                        </row>
+                        <row>
+                            <entry>Include strategic resume keywords to catch a recruiter’s eye and
+                                come up in search results</entry>
+                            <entry>Go include over 10-20 years of work experience (in most cases–
+                                exceptions for federal, law, and other industries exist)</entry>
+                        </row>
+                        <row>
+                            <entry>Mix accomplishments in with your duties to show that you’re
+                                successful and results-driven</entry>
+                            <entry>Use the word “was”</entry>
+                        </row>
+                        <row>
+                            <entry>Try to illustrate why you’ve gone from one job to the
+                                next</entry>
+                            <entry>List every little thing you’ve ever done</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </context>
+        <steps>
+            <step>
+                <cmd>Use a traditional section title, like “Work Experience,” “Professional
+                    Experience,” or “Job History.”</cmd>
+            </step>
+            <step>
+                <cmd>Include measurable results where possible.</cmd>
+            </step>
+            <step>
+                <cmd>Add as many relevant skills and keywords from the job description as
+                    possible.</cmd>
+            </step>
+            <step>
+                <cmd>Tailor the information provided in this section to each job you apply to.</cmd>
+            </step>
+        </steps>
+        <postreq id="postreq_ijc_lzr_1pb">
+            <p>Ideally, your work experience trajectory will show things like increasing
+                responsibilities or a narrowed career focus. For example, moving up from assistant
+                to individual contributor to manager in the same field, or starting your career as a
+                full stack developer but using new jobs to move towards front-end
+                specialization.</p>
+        </postreq>
+    </taskbody>
+</task>

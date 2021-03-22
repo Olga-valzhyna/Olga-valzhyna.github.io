@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_listing_relevant_skills">
+    <title>Listing relevant skills</title>
+    <shortdesc>It’s important to incorporate important skills throughout your entire resume,
+        beginning with your headline which should, when possible, include the most important
+        keyword, the job title. You can also list skills in a dedicated skills section of your
+        resume if using a hybrid format.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Whether you’re trying to catch a recruiter’s eye or rise to the top of an applicant
+                tracking system’s rankings, seeding your resume with relevant resume keywords should
+                be a top priority. One simple way to do this is through a resume skills section.</p>
+            <p>A designated skills list is an optional resume section and not part of a traditional
+                resume format. Find a good hybrid/combination or functional resume template if you
+                want a skills section on your resume.</p>
+            <p><b>Here are four ways to show off what you can do with a resume skills
+                section.</b></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Create a simple bullet list resume skills section</cmd>
+                <info>
+                    <p>The most straight-forward way is to make a list immediately following your
+                        contact information and summary statement. </p>
+                    <p>Hitting all the top job requirements with your skills list will make a
+                        recruiter’s ears perk up. It will also help you rank highly for a keyword
+                        search within an applicant tracking system. It’s an attention-getter, but
+                        don’t stop there. Just because you list these job skills on your resume
+                        doesn’t mean a corporate recruiter will believe you.</p>
+                    <p>If you use this type of resume skills section, be sure to add context for
+                        every skill elsewhere in your work experience. If a recruiter is excited by
+                        “Product Adoption” in your skills section, the first thing they’ll do is
+                        skim your work experience to figure out when, how, and how much you used
+                        that skill.</p>
+                    <p>The same goes for resume skills sections with rating systems. Giving yourself
+                        a 5/5 or “expert” rating on a skill doesn’t matter if that expertise isn’t
+                        communicated in other ways. Context is everything.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Create a skills list with expanded bullets</cmd>
+                <info>
+                    <p>One way to add context is by lengthening. </p>
+                    <p><b>For example: </b>CRM – 4+ years leveraging Salesforce on a daily basis.
+                        Earned Salesforce Certification in January 2017. Also have experience with
+                        Pipedrive (1 year) and Highrise (6 months).This approach is more impactful
+                        than only listing the skills, however it takes up more room at the top of
+                        your resume. Consider trimming down your bullet list to your most important
+                        four or five skills when using this method. Then, work your remaining skills
+                        into your work experience. the bullet points. </p>
+                </info>
+            </step>
+            <step>
+                <cmd>List additional skills after each job</cmd>
+                <info>
+                    <p>If you’d like to stay closer to a reverse-chronological resume format,
+                        consider adding shorter skill lists to each work experience section.</p>
+                </info>
+                <info>
+                    <p>Fitting all the skills into the bigger text block might make it awkward for
+                        the recruiter to read, but removing them all would make the descriptions
+                        overly vague. By working some hard skills right into the work experience and
+                        listing others afterwards, you can make your experience easier to read while
+                        still covering all your bases.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Break resume skills sections into categories</cmd>
+                <info>
+                    <p>If you’re applying for a role requiring a broad skillset and your work
+                        history lends itself to it, consider categorizing your skills into multiple
+                        lists.</p>
+                    <p>This often works best for people transitioning into management roles where
+                        they need to prove that they can work with people from multiple
+                        disciplines.</p>
+                </info>
+                <info>
+                    <p>The Digital Marketing list would include specifics like search engine
+                        optimization, pay per click advertising, affiliate marketing, and so on.</p>
+                </info>
+                <info>
+                    <p>This approach can also be used to show off both technical know-how and softer
+                        leadership skills. Some even advocate for having a dedicated soft skills
+                        section on your resume.</p>
+                    <p>You can also combine bullet points into a single section to better categorize
+                        skills.</p>
+                    <p><b> For example:</b></p>
+                    <ul id="ul_mmc_vbs_1pb">
+                        <li>Software development (php, Javascript, CSS, HTML, Ruby)</li>
+                        <li>Data Science (R, SQL, MySQL, Excel, Modeling)</li>
+                        <li>Project Management (Agile, Scrum, Cost Management)</li>
+                    </ul>
+                </info>
+            </step>
+        </steps>
+        <postreq id="postreq_jym_ybs_1pb">
+            <p>Desired soft skills vary by role, but here are 10 soft skills recruiters love to see:
+                    <b>Adaptability. Communication. Creativity. Customer Service. Leadership.
+                    Organization. Problem Solving. Teamwork. Time Management. Work Ethic.</b></p>
+        </postreq>
+    </taskbody>
+</task>
