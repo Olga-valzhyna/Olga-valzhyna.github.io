@@ -45,7 +45,8 @@
                 <topicref href="concept/c_curriculum_vitae.dita" linking="sourceonly"/>
             </relcell>
             <relcell>
-                <topicref href="out/html5/out/pdf/cv_guide.pdf" format="pdf" linking="targetonly"/>
+                <topicref href="out/pdf/cv_guide.pdf" format="pdf" linking="targetonly"
+                    navtitle="PDF_CV"/>
             </relcell>
         </relrow>
     </reltable>
