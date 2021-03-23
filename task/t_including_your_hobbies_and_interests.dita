@@ -64,10 +64,14 @@
                 </info>
             </step>
         </steps>
-        <postreq id="postreq_wms_lgs_1pb">
-            <p>Interests are optional and in many cases, they won’t make a huge difference – but if
-                you feel that they could make you appear more suitable and benefit your application,
-                then you should include them.</p>
-        </postreq>
+        <postreq id="postreq_wms_lgs_1pb"><p>Interests are optional and in many cases, they won’t
+                make a huge difference – but if you feel that they could make you appear more
+                suitable and benefit your application, then you should include them.</p><image
+                href="../image/t_inclhi.jpg" width="600" id="image_yr2_kmz_1pb"/></postreq>
     </taskbody>
+    <related-links>
+        <link
+            href="https://www.cvplaza.com/cv-hobbies-and-interests/how-to-write-hobbies-and-interests-on-a-cv/#:~:text=List%20of%20hobbies%20and%20interests%20for%20a%20CV,the%20comp%20...%20%207%20more%20rows"
+            format="html" scope="external"/>
+    </related-links>
 </task>

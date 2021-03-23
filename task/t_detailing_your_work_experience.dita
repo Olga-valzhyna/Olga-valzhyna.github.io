@@ -6,23 +6,19 @@
         section closely to determine whether your job history and prior accomplishments make you a
         promising candidate.</shortdesc>
     <taskbody>
-        <context>
-            <p>That’s why it’s important to detail not only your job responsibilities but also your
-                competence in prior roles. The work experience section is your chance to show
+        <context><p>That’s why it’s important to detail not only your job responsibilities but also
+                your competence in prior roles. The work experience section is your chance to show
                 recruiters and hiring managers how you have added unique value to other
-                companies.</p>
-            <p>The first things a recruiter looks for on your resume are the job titles you’ve held
-                and the caliber of companies you’ve worked with. Make this information easy to find
-                by sticking to a familiar format.</p>
-            <p>List each job in reverse-chronological order. Each job should have its own subheading
-                that includes the following information:</p>
-            <ul id="ul_tmm_qxr_1pb">
+                companies.</p><p>The first things a recruiter looks for on your resume are the job
+                titles you’ve held and the caliber of companies you’ve worked with. Make this
+                information easy to find by sticking to a familiar format.</p><p>List each job in
+                reverse-chronological order. Each job should have its own subheading that includes
+                the following information:</p><ul id="ul_tmm_qxr_1pb">
                 <li>Company</li>
                 <li>Job location</li>
                 <li>Your job title</li>
                 <li>Start and end dates</li>
-            </ul>
-            <table id="table_qj2_dyr_1pb">
+            </ul><table id="table_qj2_dyr_1pb">
                 <title><b>Resume work experience dos and don’ts</b></title>
                 <tgroup cols="2">
                     <colspec colname="c1" colnum="1"/>
@@ -69,8 +65,7 @@
                         </row>
                     </tbody>
                 </tgroup>
-            </table>
-        </context>
+            </table><image href="../image/t_dwe.jpg" width="600" id="image_dpm_mjz_1pb"/></context>
         <steps>
             <step>
                 <cmd>Use a traditional section title, like “Work Experience,” “Professional
@@ -93,6 +88,8 @@
                 to individual contributor to manager in the same field, or starting your career as a
                 full stack developer but using new jobs to move towards front-end
                 specialization.</p>
+            <p><xref href="https://enhancv.com/blog/resume-work-experience/" format="html"
+                    scope="external"/></p>
         </postreq>
     </taskbody>
 </task>

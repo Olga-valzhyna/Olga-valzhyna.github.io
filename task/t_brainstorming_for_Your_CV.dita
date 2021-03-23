@@ -88,14 +88,20 @@
                         </ul>
                     </p>
                 </info>
+                <choices id="choices_pjy_lcz_1pb">
+                    <choice>You can use a template</choice>
+                    <choice>You can show your individuality</choice>
+                </choices>
             </step>
         </steps>
         <result id="result_lr2_trn_1pb">
             <p>Taking time to brainstorm can help you to delve deeper into your career history and
-                highlight accomplishments that make you stand out as an applicant. <image
-                    href="../IMAGES/Brainstorming.jpg" width="400" id="image_hn4_ztn_1pb"/></p>
+                highlight accomplishments that make you stand out as an applicant.<image
+                    href="../image/t_br.jpg" id="image_yfc_5t5_1pb" width="400"/></p>
         </result>
         <postreq id="postreq_nr2_trn_1pb">When you have collected all of the materials successfully,
-            you can start creating your CV.</postreq>
+            you can start creating your CV.<p><xref
+                    href="https://www.wikihow.com/Write-a-CV-(Curriculum-Vitae)" format="html"
+                    scope="external"/></p></postreq>
     </taskbody>
 </task>

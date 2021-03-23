@@ -7,8 +7,8 @@
         contact you for a job interview.</shortdesc>
     <taskbody>
         <context>
-            <p>The top of your resume should include:<image href="../IMAGES/name.png"
-                    id="image_upt_dwr_1pb"/><ol id="ol_uxq_mvr_1pb">
+            <p><b>The top of your resume should include</b>:<image href="../image/t_nci.png"
+                    id="image_upt_dwr_1pb" width="600"/><ol id="ol_uxq_mvr_1pb">
                     <li>Name</li>
                     <li>Phone number</li>
                     <li>Location</li>
@@ -17,6 +17,9 @@
                 </ol></p>
         </context>
         <steps>
+            <data>
+                <title>Resume contact information tips</title>
+            </data>
             <step>
                 <cmd>Include a personal phone number, never a work number.</cmd>
             </step>
@@ -32,6 +35,12 @@
             <step>
                 <cmd>Create a strong LinkedIn profile and be sure to include the URL on your
                     resume.</cmd>
+                <info><xref
+                        href="https://business.tutsplus.com/tutorials/add-your-address-to-resume--cms-33531"
+                        format="html" scope="external"/></info>
+                <info><xref
+                        href="https://www.thebalancecareers.com/how-to-include-your-contact-information-in-a-cover-letter-2060312"
+                        format="html" scope="external"/></info>
             </step>
         </steps>
     </taskbody>
